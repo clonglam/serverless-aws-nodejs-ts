@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "serverless-plugin-typescript": "^2.1.2",
+    "typescript": "^4.7.4"
+  },
+  "name": "serverless-aws-nodejs-ts"
+}
